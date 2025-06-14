@@ -1,8 +1,8 @@
 Name (pseudonyms),Category,Ethicality,Source,Search Query (if any),Annotations
-Hacking Service #1,Marketplace,Unethical,ahmia.fi,gaming,Offers a variety of hacking services. Also offers a way to catch cheating partners Questionable legitimacy
-Marketplace Site #1,Marketplace,Unethical,ahmia.fi,gaming,"Looks like ebay but on the dark web. Offers seemingly normal products (one of them is an RTX 4080) but lists questionable categories, such as carding, hacking, documents and adult content
+Hacking Service #1,Hacking & Carding,Unethical,ahmia.fi,gaming,Offers a variety of hacking services. Also offers a way to catch cheating partners Questionable legitimacy
+Marketplace Site #1,General Marketplaces,Unethical,ahmia.fi,gaming,"Looks like ebay but on the dark web. Offers seemingly normal products (one of them is an RTX 4080) but lists questionable categories, such as carding, hacking, documents and adult content
 States that Javascript is required to begin purchasing"
-Marketplace Site #2,Marketplace,Unethical,ahmia.fi,cooking recipes,"A digital marketplace offering questionable products, such as leaked databases, dox, documents,firearms, stolen IDs. Even has AK-47 blueprints on sale. Takes crypto such as XMR, DOGE, BTC, BCH, LTC."
+Marketplace Site #2,General Marketplaces,Unethical,ahmia.fi,cooking recipes,"A digital marketplace offering questionable products, such as leaked databases, dox, documents,firearms, stolen IDs. Even has AK-47 blueprints on sale. Takes crypto such as XMR, DOGE, BTC, BCH, LTC."
 Forum #1,Discussion Platforms,Ethical,ahmia.fi,cooking recipes,"Forum for scientific discussion, looks very similar to reddit."
 Personal Website #1,Personal Website & Blogs,Ethical,ahmia.fi,cooking recipes,
 Personal Website #2,Personal Website & Blogs,Ethical,ahmia.fi,cooking recipes,
@@ -41,13 +41,13 @@ Forum #6,Discussion Platforms,Unethical,ahmia.fi,tutorial, A forum for hackers a
 Blog #3,Personal Website & Blogs,Ambiguous,ahmia.fi,tutorial,"Not sure what it is, but it is a website with images of cryptocurrency and below is a registration form. Navbar does not seem to work. Most likely a tutorial or blog site"
 Carding #2,Hacking & Carding,Unethical,ahmia.fi,tutorial,A website containing spam and carding tutorials
 Hacking #1,Hacking & Carding,Unethical,ahmia.fi,tutorial,A site advertising hacking services
-Marketplace #1,Marketplace,Unethical,ahmia.fi,tutorial,"A site offering counterfeit, stolen and other illegal goods"
-Marketplace #2,Marketplace,Unethical,ahmia.fi,tutorial,
+Marketplace #1,General Marketplaces,Unethical,ahmia.fi,tutorial,"A site offering counterfeit, stolen and other illegal goods"
+Marketplace #2,General Marketplaces,Unethical,ahmia.fi,tutorial,
 Documents #1,Forged & Stolen Documents,Unethical,ahmia.fi,tutorial,Marketplace offering bank logs
-Marketplace #3,Marketplace,Unethical,ahmia.fi,tutorial,A market offering illegal goods
+Marketplace #3,General Marketplaces,Unethical,ahmia.fi,tutorial,A market offering illegal goods
 Forum #7,Discussion Platforms,Ambiguous,ahmia.fi,tutorial,Seems to be a chat room
 Hacking #2,Hacking & Carding,Unethical,ahmia.fi,tutorial,Hackers for hire
-Marketplace #4,Marketplace,Unethical,ahmia.fi,tutorial,Illegal goods marketplace
+Marketplace #4,General Marketplaces,Unethical,ahmia.fi,tutorial,Illegal goods marketplace
 Link List #2,Link Lists & Directories,Ambiguous,The Hidden Wiki (and forks),,Link Lists & Directories
 Link List #3,Link Lists & Directories,Ambiguous,Other,,
 Link List #4,Link Lists & Directories,Ambiguous,Other,,
@@ -57,13 +57,13 @@ Financial #2,Financial Service,Ambiguous,Other,,Bitcoin wallet and mixing
 Financial #3,Financial Service,Ambiguous,Other,,Bitcoin wallet and mixing
 Financial #4,Financial Service,Ambiguous,Other,,Selling paypal and other financial accounts. Could be malicious
 Hacking #3,Hacking & Carding,Unethical,Other,,Hacking service
-Marketplace #5,Marketplace,Ambiguous,Other,,Selling phones for bitcoin. Questionable legitimacy
+Marketplace #5,General Marketplaces,Ambiguous,Other,,Selling phones for bitcoin. Questionable legitimacy
 Drugs #1,Drugs,Unethical,Other,,Aphrodisiac tablets
 Documents #2,Forged & Stolen Documents,Unethical,Other,,Selling passports and IDs with custom data.
 Guns #1,Firearms,Unethical,Other,,Illegally  selling guns and ammo
 Documents #3,Forged & Stolen Documents,Unethical,Other,,Fake driving licenses.
 Guns #2,Firearms,Unethical,Other,,Unregistered guns
-Marketplace #6,Marketplace,Ambiguous,Other,,Selling phones for bitcoin. Questionable legitimacy.
+Marketplace #6,General Marketplaces,Ambiguous,Other,,Selling phones for bitcoin. Questionable legitimacy.
 Documents #4,Forged & Stolen Documents,Unethical,Other,,"Selling UK passports with your own names and identity, somehow"
 Documents #5,Forged & Stolen Documents,Unethical,Other,,Selling USA passport
 Hacking #4,Hacking & Carding,Unethical,Other,,Illegal hacking
@@ -116,7 +116,7 @@ VPN #1,Privacy Services,Ethical,ahmia.fi,composition type*,a website offering vp
 Piracy Repo #1,Piracy,Unethical,ahmia.fi,composition type*,a piracy website
 Personal Website #7,Personal Website & Blogs,Ethical,ahmia.fi,composition type*,a personal blog websites belonging to an online user
 Drugs #14,Drugs,Unethical,ahmia.fi,composition type*,an illegal substance (drug) store website mainly selling cannabis
-Marketplace #10,Marketplace,Unethical,ahmia.fi,IT corporation*,an online store for cloned credit cards and master cards
+Marketplace #10,General Marketplaces,Unethical,ahmia.fi,IT corporation*,an online store for cloned credit cards and master cards
 Money Exchange Service #1,Financial Service,Unethical,ahmia.fi,IT corporation*,a website selling cash to buyer using bitcoin as payment
 Database Dump #11,Leaks,Unethical,ahmia.fi,IT corporation*,a website offering company data leaks in exchange for money
 Link List #7,Link Lists & Directories,Ambiguous,ahmia.fi,Mobile Application*,a website containing 2 links
